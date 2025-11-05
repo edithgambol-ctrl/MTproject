@@ -99,7 +99,7 @@ header {
   position: relative;
   height: 100vh;
   background: linear-gradient(rgba(122, 29, 29, 0.6), rgba(0, 0, 0, 0.6)),
-    url('mun-Picsart-AiImageEnhancer.jpg') center/cover no-repeat;
+    url('..///MTproject/mun-Picsart-AiImageEnhancer.jpg') center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
